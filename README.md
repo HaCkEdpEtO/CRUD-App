@@ -12,5 +12,3 @@
 - Eslint: `npm run lint:fix`
 
 <hr />
-
-malo by to byť všetko.
