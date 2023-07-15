@@ -4,7 +4,7 @@
 
 - First Download Project
 - Open your project folder: `cd CRUD-app-master`
-- `npm install --legacy-peer-deps`
+- `npm install eslint-plugin-react@latest --legacy-peer-deps`
 - Just Run: `npm start`
 
 ### Other Commands
