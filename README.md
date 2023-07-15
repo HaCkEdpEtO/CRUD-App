@@ -9,6 +9,6 @@
 
 ### Other Commands
 
-- Eslint: `npm run lint:fix`
+- Eslint: `npm run lint-fix`
 
 <hr />
